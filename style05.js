@@ -14,6 +14,7 @@ function addEmployee() {
         department: dept
     };
 
+    
     employees.push(emp);
     alert("Employee Added");
 }
