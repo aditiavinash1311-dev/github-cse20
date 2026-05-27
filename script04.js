@@ -1,5 +1,4 @@
 function result() {
-
     var subjects = document.getElementById("sub").value;
     var total = 0;
 
