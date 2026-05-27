@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import './App2.css'
 import Student from './student'
 
+
 function App() {
 const[name,setName]=useState("")
 const[email,setEmail]=useState("")
